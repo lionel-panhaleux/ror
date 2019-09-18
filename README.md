@@ -583,7 +583,7 @@ If the Senate attacks and defeats a Rebel Governor in a Naval Battle, that Rebel
 #### 2.03.92 REBEL VICTORY
 If the Rebel Army attacks the Senate in Italy and achieves a “Victory” result, the Revolt has succeeded and the Rebel now rules Rome and wins the Game, barring [the collapse of the Republic](#1123-survival). If he defeats the Senatorial Army attacking him in his Rebel Province, he does not win the Game. For the Primary Rebel to win he must successfully attack the Senate in Italy or he may wait in his Province and hope for a [“People Revolt”](#1082-state-of-the-republic) result or a [Bankruptcy of the State Treasury](#10653-debits).
 ## 2.04 LEGIONARY DISBANDMENT & RECALL
-###2.04.1 OVERVIEW
+### 2.04.1 OVERVIEW
 Commanders with the Allegiance markers of Veteran Legions may now gain Influence and Oratory by disbanding these Legions. These Advanced Rules add minimal complexity and can be used once players have some familiarity with the Basic Rules.
 ### 2.04.2 DISBANDMENT
 When it is his turn to [play cards](#1111-play-statesmenconcessions), a Victorious non-Rebel returning Commander may disband any commanded Veteran Legions for which he holds the Allegiance markers. The identities of the disbanded Legions are noted by retaining their Legion Allegiance markers on his card and flipping them to their disbanded side. The Legions are then placed in the Bank (not the available Force Pool) with their Veteran side up. For each Legion disbanded, the Senator increases both his Oratory and Influence by 1. When a Senator who holds the Allegiance marker of any disbanded Legion dies, his disbanded Legions are placed in the available Force Pool and lose their Veteran Status.
