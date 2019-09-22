@@ -36,7 +36,7 @@ The following terms are used throughout the rules and players should be familiar
 
 ### 1.04.2 FACTIONS
 Each player will control a Faction of Senators, which they will display before them. These Senators have different attributes that increase a Faction’s voting power and Influence. The black-text Senators represent Families, while the red-text Senators represent specific Statesmen of the era. Statesmen are treated like Senators but usually have better attributes and a special power.
-Statesmen are either played by themselves or on top of a matching black Family card. As the Game progresses Senators will gain various markers, Concessions, military commands, and political offices, all with the goal of increasing their Influence (which can almost be considered victory points). Each Faction will usually have a Faction Leader, indicated by the yellow Faction Leader maker.
+Statesmen are either played by themselves or on top of a matching black Family card. As the Game progresses Senators will gain various markers, Concessions, military commands, and political offices, all with the goal of increasing their Influence (which can almost be considered victory points).
 ### 1.04.5 TRADING CARDS
 During the course of the Game players will hold secret cards that will make up their hand. Players may trade and/or give away their held Faction cards only during the [Revolution Phase](#1111-play-statesmenconcessions). Players may still show their cards to other players as they wish.
 ### 1.04.6 TRANSFERRING TALENTS
@@ -55,16 +55,15 @@ One Mortality Chit is drawn at random from the cup every Mortality Phase.
 #### 1.05.21 MORTALITY RESOLUTION
 Whenever a Mortality Chit is drawn, the chit indicates that the Senator whose numerical ID matches that of the chit has died. If the named Senator is not in play, there is no effect. In the event you need to draw more than one chit, these chits are laid out and not returned to the cup until the appropriate number of chits have been drawn. Once all the needed Mortality Chits have been drawn, the chits are returned to the cup.
 ### 1.05.3 DEATH CONSEQUENCES
-Regardless of the cause of death, all markers except a Faction Leader marker are removed from the afflicted Senator’s card. Any Concessions and Provinces attached to the Senator are placed in the Forum. Any Family card (black-text Senator) that does not have a Faction Leader marker is placed under all other Family cards in the “Repopulating Rome” space in the Curia.
-#### 1.05.31 STATESMAN CARD DEATH
-A [Statesman card](#107312-statesmen-senators) (red-text Senator) is permanently removed from play when he dies and any Family card beneath the Statesman card suffers the normal [death consequences](#1053-death-consequences). Statesmen that are Faction Leaders without a Family card are still removed from play.
+Regardless of the cause of death, all markers are removed from the afflicted Senator’s card. Any Concessions and Provinces attached to the Senator are placed in the Forum. Any Family card (black-text Senator) is placed under all other Family cards in the “Repopulating Rome” space in the Curia.
+Any [Statesman card](#107312-statesmen-senators) (red-text Senator) is permanently removed from play.
 ### 1.05.4 FACTION ELIMINATION
-If a Faction has no Senators left, that player may either quit the Game or draw the top Senator card that does not match a played Statesman in the Curia to use as his new Faction Leader. If there is none, he can wait and take the first Senator that enters the Curia.
+If a Faction has no Senators left, that player may either quit the Game or draw the top Senator card that does not match a played Statesman in the Curia. If there is none, he can wait and take the first Senator that enters the Curia.
 ## 1.06 REVENUE PHASE
 ### 1.06.1 PERSONAL REVENUE
 Senators usually generate Personal Revenue. The revenue includes Base Income plus funds from Concessions, Governorships and Knights. These are given as a lump sum to the player for [Redistribution](#1063-redistribution).
 #### 1.06.11 BASE INCOME
-Each Faction Leader collects 3 Talents and all other Senators collect 1 Talent apiece.
+Each Faction (player) collects 2 Talents and all Senators collect 1 Talent apiece.
 #### 1.06.12 KNIGHTS/CONCESSIONS
 Each Senator collects from the Bank 1 Talent for each Knight on his card, plus he **must** generate revenue on each [Concession](#10732) he controls and he reveals the Concession’s corrupt bar.
 #### 1.06.13 PROVINCIAL SPOILS
@@ -97,7 +96,6 @@ The [HRAO](#10911-highest-ranking-available-official-hrao) player must roll 2d6 
 - Make one [Persuasion Attempt](#1074-persuasion-attempts).
 - Make one attempt to [attract a Knight](#1075-knights) or [pressure multiple Knights](#10751-pressuring-knights).
 - [Sponsor Games](#1076-sponsoring-games) once.
-- Appoint a different Senator as his [Faction Leader](#1077-appoint-new-faction-leader).
 #### 1.07.21 EVENTS
 If the player rolls a 7 as his Initiative roll, he does not draw a card but instead must roll 3d6 on the Random Events Table and place the corresponding light blue Event card from the table in play. If that Event card is already in play, it is flipped to its dark blue side. If the Event card is already flipped to its dark blue side, there are no additional effects unless otherwise specified on the Event card.
 #### 1.07.22 BIDDING ON INITIATIVES
@@ -108,7 +106,7 @@ There are two classes of cards: Cards with black text are called Forum cards and
 #### 1.07.31 SENATORS
 There are two types of Senator cards: [Family cards](#107311-family-senators), which are Forum cards, and [Statesmen](#107312-statesmen-senators), which are Faction cards. The number after the “MIL” on the right of the card is the Senator’s Military rating, representing his ability as a Commander (general and admiral). The number after the “ORA” is the Oratory rating, representing his political skills and voting power. The number after the “LOY” is his [Loyalty](#107411-loyalty) rating, measuring the degree of allegiance the Senator feels towards the Faction controlling him. The number in the bottom center of the card is his Influence and serves as a fluctuating gauge of his prestige. This rating can be increased during the Game by his public service or reduced by his misdeeds. This number is always positive; a Senator can never have less than 0 Influence. The small number in the upper center of the card is the Senator ID Number, which corresponds to a like-numbered Mortality Chit. Senator cards also contain designated areas to record the Senator’s Popularity and Knight markers. If a Senator’s Popularity is negative, it is recorded with a black Number marker. Popularity may not go above 9 or below -9.
 ##### 1.07.311 FAMILY SENATORS
-Family cards are Senator cards with black text and a marble background that represent leading families in the Senate. Having a particular Family card means a player has in his Faction the leading member of that family. Should that Senator die, his place is taken by the next leading member of that family who, if not a Faction Leader, leaves the current Faction and goes to the bottom of the Curia. Family cards with an ID# in brackets “[ ]” include a related prominent Statesman that may appear during play.
+Family cards are Senator cards with black text and a marble background that represent leading families in the Senate. Having a particular Family card means a player has in his Faction the leading member of that family. Should that Senator die, his place is taken by the next leading member of that family, who leaves the current Faction and goes to the bottom of the Curia. Family cards with an ID# in brackets “[ ]” include a related prominent Statesman that may appear during play.
 ##### 1.07.312 STATESMEN SENATORS
 Senator cards with an alpha-numeric ID, red text and a marble background represent outstanding individual Statesmen with special capabilities. A player may not add his Statesman card to his Faction if any of the following conditions exists:
 
@@ -159,7 +157,7 @@ Law cards are Faction cards on a scroll background that represent changes in the
 #### 1.07.37 EVENTS
 A few Event cards are Forum cards on a picture frame with parchment background. They are resolved immediately and in the same manner as the blue-bordered Event deck. They are discarded after being fully resolved.
 ### 1.07.4 PERSUASION ATTEMPTS
-A Senator in Rome may attempt to persuade an Unaligned Senator in the Forum or an already Aligned non-Faction Leader Senator also in Rome to join his own Faction.
+A Senator in Rome may attempt to persuade an Unaligned Senator in the Forum or an already Aligned Senator also in Rome to join his own Faction.
 #### 1.07.41 RESOLUTION
 The Senator making the Persuasion Attempt adds his Oratory and Influence and subtracts from this sum the target Senator’s Loyalty rating to get a Base Number. This Base Number can be modified by [Loyalty](#107411-loyalty), [Bribes](#107412-bribes) and [Counter-Bribes](#107413-counter-bribes). The resulting Base Number is then compared to a 2d6 roll. If the roll is less than or equal to the Base Number, the Persuasion Attempt succeeds and the target Senator joins the Faction of the Senator making the Persuasion Attempt. If the original (unmodified) roll is greater than or equal to 10, or the modified roll is greater than the Base Number, the Persuasion Attempt fails and the target Senator remains either Unaligned in the Forum or Aligned to his current Faction.
 ##### 1.07.411 LOYALTY
@@ -179,8 +177,6 @@ A player may attempt to attract one Knight per Initiative to one of his Aligned 
 Instead of rolling to attract a Knight, a player may opt to pressure any Knights he has in his Faction for contributions and, in so doing, loses their support. He announces how many of his Knights under each of his Senators he will pressure and rolls a die for each to determine the amount of Talents gained. This money must be added to each controlling Senator’s respective Personal Treasury and the pressured Knights are discarded.
 ### 1.07.6 SPONSORING GAMES
 Sponsoring Games allows a Senator to increase his Popularity while lowering the Unrest Level of the populace. The Senator pays the cost of the games he wishes to Sponsor from his Personal Treasury (see the Games Table). Adjust his Popularity and reduce the Unrest Level as indicated.
-### 1.07.7 APPOINT NEW FACTION LEADER
-A player may change a Faction Leader by placing his Faction Leader marker on any Senator in his Faction.
 ### 1.07.8 PUTTING ROME IN ORDER
 After all six Initiatives have been resolved, the following steps are completed in order.
 
@@ -329,7 +325,7 @@ If the Presiding Magistrate dies, the vote continues with the next HRAO acting a
 #### 1.09.73 BODYGUARDS
 If the target Senator has one or more “Secret Bodyguard” cards, he may announce after the roll how many of those cards he will play to defend against the Assassination attempt. Each Bodyguard so used subtracts 1 from the roll and is discarded after use. The "Open Bodyguard" card must be in play prior to an Assassination attempt to have any effect. If the Assassin is not caught, for each Bodyguard card played, the Assassin must roll again with all applicable modifiers solely to determine if he is caught. It is therefore possible for the first roll to kill the victim and a subsequent roll to result in the Assassin’s capture.
 #### 1.09.74 PUNISHMENT
-A caught Assassin is killed. In addition, his Faction Leader loses 5 Influence and, if he is in Rome, is the subject of an immediate Special Major Prosecution, in which he **must** make a [Popular Appeal](#109421-popular-appeal). However, instead of modifying the Popular Appeal roll by his own Popularity, he must subtract the Popularity of the target Senator. So, if the target had negative Popularity, add it to the roll. The Censor is Presiding Magistrate for a Special Major Prosecution, even if he is the Accused Faction Leader. If there is no Censor, the HRAO runs the vote. A Prosecutor is not selected for this Special Major Prosecution and this special Prosecution does not count against the Censor Prosecution limit. Influence of the Accused is counted as normal. A Special Major Prosecution only temporarily suspends the current proposal; the proposal continues after the Prosecution is resolved, if possible. If the Faction Leader is found guilty he is killed and any Family card belonging to the Faction Leader goes to the bottom of the Curia. In addition to his own death, a number of Mortality Chits equal to the target’s Popularity (if positive) are drawn, and other members of the Assassin’s Faction currently in Rome whose chits are drawn are also implicated and killed. If the caught Assassin was the Faction Leader he is automatically killed, and any Family card belonging to the Faction Leader goes to the bottom of the Curia. There is no Special Major Prosecution but chits are drawn as above to implicate additional Faction members. If it loses its last Senator via Punishment for trying an Assassination, a Faction is eliminated : the player quits the game and can not draw a new Senator card.
+A caught Assassin is killed. In addition, the Senator with the most influence his Faction loses 5 Influence and, if he is in Rome, is the subject of an immediate Special Major Prosecution, in which he **must** make a [Popular Appeal](#109421-popular-appeal). However, instead of modifying the Popular Appeal roll by his own Popularity, he must subtract the Popularity of the target Senator. So, if the target had negative Popularity, add it to the roll. The Censor is Presiding Magistrate for a Special Major Prosecution, even if he is the Accused Senator. If there is no Censor, the HRAO runs the vote. A Prosecutor is not selected for this Special Major Prosecution and this special Prosecution does not count against the Censor Prosecution limit. Influence of the Accused is counted as normal. A Special Major Prosecution only temporarily suspends the current proposal; the proposal continues after the Prosecution is resolved, if possible. If the Accused Senator is found guilty he is killed. In addition to his own death, a number of Mortality Chits equal to the target’s Popularity (if positive) are drawn, and other members of the Assassin’s Faction currently in Rome whose chits are drawn are also implicated and killed.
 ### 1.09.8 MISC SENATE RULES
 The following proposals and rules apply alongside the routine procedures of the Senate Phase.
 #### 1.09.81 REPOPULATING ROME
@@ -439,7 +435,7 @@ During the Revenue Phase, a Province controlled by a Legate is treated exactly t
 #### 1.05.22 GRACCHI & LICINII BROTHERS
 No Senators with the same ID# can be in play at the same time, except for the Gracchi brothers (Statesmen 25A and 25B) and the Licinii (Statesmen 29A and 29B) in the later scenarios. Should the 25 or 29 Mortality Chit be drawn when both its respective Statesmen are in play, the Senator affected is determined by a random 2d6.
 
-If two Statesmen brothers with the same number are in play and the Family card then appears in the Forum, the Family card is placed under the “A” Statesman of the pair. A player may not play one of these Statesmen if the Family card is in play with a different Faction, unless the other Statesman of the pair is already in play. If one of the pair dies, and the Family card is with the other, the Family card is moved to the surviving Statesman, even if the dead Statesman was the Faction Leader.
+If two Statesmen brothers with the same number are in play and the Family card then appears in the Forum, the Family card is placed under the “A” Statesman of the pair. A player may not play one of these Statesmen if the Family card is in play with a different Faction, unless the other Statesman of the pair is already in play. If one of the pair dies, and the Family card is with the other, the Family card is moved to the surviving Statesman.
 #### 1.09.15 TRIBUNES
 Tribune cards may be played during the Senate Phase to veto or initiate proposals, including nominations. Once used, Tribunes are discarded. If two or more players play a Tribune at the same time, those players dice off to determine who gets precedence with the loser(s) taking their Tribune(s) back to their hand(s).
 ##### 1.09.151 PROPOSAL USING A TRIBUNE
@@ -487,7 +483,7 @@ Once each Senate Phase during or prior to his Faction’s turn to vote, the Pont
 ### 2.01.6 COLLECTIONS
 During the Revenue Phase, the Pontifex Maximus receives 1d6 Talents in addition to his normal [base income](#10611-base-income).
 ### 2.01.7 EVIL OMENS
-When the Evil Omens event is drawn, the Pontifex Maximus must pay the 20 Talent cost from his Personal Treasury. If he cannot pay the 20 Talents or if a second Evil Omens occurs in the same turn, he is immediately stripped of his office, gets a Major marker, and loses 5 Influence (to a minimum of 0). If he is unable to pay the full Evil Omens cost, the difference plus a 10 Talent fine is levied on his Faction Treasury (payable to the Bank). If the Faction Treasury has insufficient funds, what money there is in that Treasury is lost, and the Faction Leader may also be the subject of a Major Prosecution during the following Senate Phase, in addition to any regular Prosecutions the Censor may wish to conduct. The State must pay any shortfall in the Evil Omens cost (excluding the Faction fine) not paid by the Pontifex Maximus or his Faction.
+When the Evil Omens event is drawn, the Pontifex Maximus must pay the 20 Talent cost from his Personal Treasury. If he cannot pay the 20 Talents or if a second Evil Omens occurs in the same turn, he is immediately stripped of his office, gets a Major marker, and loses 5 Influence (to a minimum of 0). If he is unable to pay the full Evil Omens cost, the difference plus a 10 Talent fine is levied on his Faction Treasury (payable to the Bank). If the Faction Treasury has insufficient funds, what money there is in that Treasury is lost, and the ancient Pontifex may also be the subject of a Major Prosecution during the following Senate Phase, in addition to any regular Prosecutions the Censor may wish to conduct. The State must pay any shortfall in the Evil Omens cost (excluding the Faction fine) not paid by the Pontifex Maximus or his Faction.
 ### 2.01.8 RECALL
 The Pontifex Maximus may be stripped of his office during any Senate Phase by a two-thirds majority of votes cast. He may not veto that proposal with the Pontifex Maximus veto ability, although any Senator (of his or another Faction) wielding a Tribune may. If voted out of office, he loses 5 Influence (to a minimum of 0). Existing Priests are not affected in any way by the recall or death of the Pontifex Maximus.
 ## 2.02 PROVINCIAL WARS
@@ -627,8 +623,6 @@ Set up the Early Republic (white) deck as follows:
 Four Legions are put in the Active Forces boxes.
 ### 3.01.6 TEMPORARY ROME CONSUL
 Draw a Mortality Chit from the cup. If the ID# drawn does not match an existing Senator put it to the side and draw again until a matching ID# is drawn. The matching ID# is Temporary Rome Consul until new Consuls can be elected during the first Senate Phase. Place the Rome Consul and Prior Consul markers on his card and add 5 to his Influence. Place all the Mortality Chits back into the cup.
-### 3.01.7 FACTION LEADERS
-Each player (starting with the Temporary Rome Consul and proceeding clockwise) places a Faction Leader marker containing the symbol of his Faction on one of his Senators.
 ### 3.01.8 PROVINCES
 No Provinces are currently in play.
 ### 3.01.9 INITIAL FACTION PHASE
