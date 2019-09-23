@@ -55,7 +55,6 @@ The index in the back (Section VII) contains additional game term definitions.
 - Aligned: A Senator belonging to a Faction.
 - drm: Modifier applied to any die or dice roll.
 - 1d6, 2d6, 3d6: A roll of 1, 2 or 3 six-sided dice.
-- Personal Treasury: Talents on a Senator card.
 - Faction Treasury: Talents in the Faction Treasury Box.
 
 ### 1.04.2 FACTIONS
@@ -74,7 +73,8 @@ give away their held Faction cards only during the [Revolution Phase](#111-revol
 Players may still show their cards to other players as they wish.
 
 ### 1.04.4 TRANSFERRING TALENTS
-Players may give Talents to each other only during the [Redistribution step](#1063-redistribution) of the Revenue Phase.
+Players may give Talents to each other only during the [Personal Revenue step](#1061-personal-revenue)
+of the Revenue Phase.
 
 ### 1.04.5 VOTE TALLY
 Each player should always readjust his Vote Tally dial as soon as he gains or loses votes for any reason.
@@ -86,8 +86,8 @@ always broken by the HRAO going first and play proceeding clockwise around the b
 
 ### 1.04.7 HIDDEN INFORMATION
 Only Talents kept in the Faction Treasury and a player’s hand of Faction cards are hidden. Unless otherwise specified
-everything else, including discard piles and Personal Treasuries, are always open for inspection. When a card is
-discarded, place it face up on the discard pile.
+everything else, including discard piles, are always open for inspection. When a card is discarded, place it face up
+on the discard pile.
 
 ## 1.05 MORTALITY PHASE
 ### 1.05.1 IMMINENT WAR ACTIVATION
@@ -114,7 +114,7 @@ a played Statesman in the Curia. If there is none, he can wait and take the firs
 ## 1.06 REVENUE PHASE
 ### 1.06.1 PERSONAL REVENUE
 Senators usually generate Personal Revenue. The revenue includes Base Income plus funds from Concessions,
-Governorships and Knights. These are given as a lump sum to the player for [Redistribution](#1063-redistribution).
+Governorships and Knights. These are given as a lump sum to the player Faction Treasury.
 
 Each Faction (player) collects 2 Talents and all Senators collect 1 Talent apiece.
 
@@ -123,30 +123,21 @@ on each [Concession](#10732-concessions) he controls and he reveals the Concessi
 
 Each Governor has the **option** to roll a die or dice to generate that number of Talents of Provincial Spoils from his
 Province that turn. A Governor need not pay a negative Provincial Spoils result, in which case the State will during the
-[Debits step](#10653-debits) of the Revenue Phase. A Governor who attempts to collect Provincial Spoils from his
-Province takes a Corrupt marker.
+[State Revenues step](#1063-state-revenues) of the Revenue Phase. A Governor who attempts to collect Provincial Spoils
+from his Province takes a Corrupt marker.
 
 > EXAMPLE: The Governor of Undeveloped Hispania Ulterior takes a Corrupt marker and rolls a 2 for Provincial Spoils,
 > which results in net income of -1 (2 - 3 = -1), but he need not pay any negative totals out of his own funds.
 > Total bill to the State Treasury is -1 Talent.
 
-### 1.06.2 REDISTRIBUTION
-All Personal Revenue generated, in addition to any existing Talents, may at this point be moved freely
-between Personal Treasuries and Faction Treasuries. Money may be transferred to or from Senators who are not in Rome.
-Players may give Talents from their Faction Treasury and the Personal Treasuries of their own Senators to other players,
-who may then redistribute the Talents as needed.
-
-Talents allocated to the Faction Treasury are placed in the Faction Treasury Box in front of each player.
-Faction Treasuries are [secret](#1049-hidden-information) and not available for inspection by other players.
-
-### 1.06.3 PROVINCE DEVELOPMENT
+### 1.06.2 PROVINCE DEVELOPMENT
 After collecting or declining to collect his Provincial Spoils, the Governor of each Undeveloped (yellow-bordered)
 Province must roll 1d6 to see if that Province has been improved by Roman control. There is a +1 DRM to the Improvement
 roll if the Governor does not hold a Corrupt marker. If the roll is ≥ 6, the Governor earns 3 Influence and the
 Province card is flipped to its Developed (green) side. The new values listed thereon remain in effect for the rest
 of the Game. Provinces being attacked cannot be Developed.
 
-### 1.06.4 STATE REVENUES
+### 1.06.3 STATE REVENUES
 The players adjust the Treasury markers on the State Treasury track. The State receives 100 Talents Annual Revenue
 at the start of each Revenue Phase.
 
@@ -171,7 +162,7 @@ State Treasury drops below 50 or 20 Talents due to the danger of Bankruptcy to s
 If unable to pay its obligations at any time in the game, the State is bankrupt
 and the [Republic collapses](#1123-survival).
 
-### 1.06.5 RETURNING GOVERNORS
+### 1.06.4 RETURNING GOVERNORS
 At the end of the Revenue Phase move the center term dial of non-rebel Governors. When a term dial moves off of “1”
 return the Governor to Rome and return the Province card to the Forum.
 
@@ -200,7 +191,7 @@ the total number for that turn to six are publicly auctioned off to the highest 
 This is repeated until there are no remaining Initiatives.
 
 Only **Aligned Senators currently in Rome** may bid for an extra Initiative with the winning bid coming
-from a single Personal Treasury. Winning the bid allows the entire Faction to take the Initiative Sequence.
+from the Faction Treasury. Winning the bid allows the entire Faction to take the Initiative Sequence.
 If nobody bids for an Initiative, the HRAO’s Faction takes any Initiatives that are not bid on.
 
 ### 1.07.3 CARDS
@@ -343,8 +334,7 @@ If the original (unmodified) roll is greater than or equal to 10, or the modifie
 the Persuasion Attempt fails and the target Senator remains either Unaligned in the Forum or Aligned
 to his current Faction.
 
-If the target Senator is already Aligned, 7 is added to his Loyalty rating. The number of Talents in the
-Personal Treasury of the target Senator, whether Aligned or not, is also added to his Loyalty rating.
+If the target Senator is already Aligned, 7 is added to his Loyalty rating.
 Some Statesmen oppose others and display a “-“ followed by another Statesman’s name. If a Statesman belongs to the same
 Faction as any Statesmen shown with a "-" on his card, his printed base Loyalty rating is reduced to 0; however,
 he still adds 7 for being Aligned. Some Statesmen oppose others who do not oppose them back.
@@ -352,38 +342,37 @@ Other Statesmen have a “+” next to their names because both desire to belong
 In this case the Loyalty of 0 occurs when one brother belongs to a Faction an his brother to another.
 This effect only occurs when both are in play.
 
-The Senator making the Persuasion Attempt may spend money from his Personal Treasury to aid the Persuasion Attempt.
-Each Talent spent adds 1 to the Base Number. This money is paid into the Personal Treasury of the target Senator
-at the end of the Attempt, regardless of the outcome.
+The Senator making the Persuasion Attempt may spend money from his Faction Treasury to aid the Persuasion Attempt.
+Each Talent spent adds 1 to the Base Number. This money is paid to the Faction Treasury of the player controlling the
+Senator at the end of the Attempt, regardless of the outcome.
 
 All players may interfere in a Persuasion Attempt made against a Senator by spending money from their Faction Treasuries
 to resist (not aid) the Persuasion Attempt. Each Talent thus spent subtracts 1 from the Base Number.
-This money is paid into the Personal Treasury of the target Senator at the end of the Attempt,
+This money is paid into the Faction Treasury of the player controlling the Senator at the end of the Attempt,
 regardless of the outcome.
 
 The Senator making the Persuasion Attempt announces his target and the initial Base Number, which may already reflect
-money irrevocably spent from his Personal Treasury. Play then moves clockwise around the table, and each player in turn
+money irrevocably spent from his Faction Treasury. Play then moves clockwise around the table, and each player in turn
 announces the Talents, if any, he is irrevocably spending from his Faction Treasury to resist the Persuasion Attempt.
 The player making the Persuasion Attempt may then either roll 2d6 at the present Base Number or irrevocably spend more
 Talents, with bidding moving around the table again. This cycle of bidding continues until all players stop spending
 money or the Persuader accepts the current Base Number. Money thus spent should be initially placed on the table in
-front of a player’s Faction (making change as necessary) and transferred to the target Senator’s card only after the
-Persuasion Attempt is resolved.
+front of a player’s Faction (making change as necessary) and transferred to player controlling the target Senator
+(or the Bank, if the Senator stays unaligned) only after the Persuasion Attempt is resolved.
 
 > EXAMPLE: Fabius wishes to make a Persuasion Attempt against Claudius, who is an Unaligned Senator in the Forum.
 > Fabius adds his Oratory and Influence ratings and gets a sum of 7, from which he subtracts Claudius’ Loyalty rating
-> of 7 to produce a Base Number of 0. Fabius spends 9 Talents from his Personal Treasury to bring the Base Number up
+> of 7 to produce a Base Number of 0. Fabius spends 9 Talents from his Faction Treasury to bring the Base Number up
 > to 9. Play then moves around the table, and the other players spend a total of 8 Talents from their collective Faction
-> Treasuries to lower the Base Number to 1. Fabius responds by spending the 7 Talents remaining in his Personal Treasury
+> Treasuries to lower the Base Number to 1. Fabius responds by spending the 7 Talents remaining in his Faction Treasury
 > to raise the Base Number to 8. Play revolves around the table again, but this time the other players are unwilling or
 > unable to spend any more money, so the final Base Number is 8. Fabius rolls a 9, which is not less than or equal to 8,
-> so the Persuasion Attempt fails and Claudius remains uncommitted. All the money spent on the Persuasion Attempt is
-> placed in Claudius’ Personal Treasury, making him both more attractive and harder to get, since the 24 Talents now in
-> his Personal Treasury are automatically added to his Loyalty rating in any future Persuasion Attempts.
+> so the Persuasion Attempt fails and Claudius remains uncommitted. All the money spent on the Persuasion Attempt goes
+> to the Bank.
 
 ### 1.07.5 KNIGHTS
 A player may attempt to attract one Knight per Initiative to one of his Aligned Senators in Rome by paying 0 or more
-Talents from that Senator’s Personal Treasury and then rolling a die. If the sum of the die roll and the number of
+Talents from that Senator’s Faction Treasury and then rolling a die. If the sum of the die roll and the number of
 Talents paid is greater than or equal to 6, a Knight is attracted and that Senator places a Knight marker on his card
 indicating the total number of Knights he controls. There is no limit to the number of Knights that may eventually be
 controlled by a Senator. For each Knight a Senator controls he gains an extra vote in the Senate and an extra Talent of
@@ -391,12 +380,12 @@ income during the Revenue Phase.
 
 Instead of rolling to attract a Knight, a player may opt to pressure any Knights he has in his Faction for contributions
 and, in so doing, loses their support. He announces how many of his Knights under each of his Senators he will pressure
-and rolls a die for each to determine the amount of Talents gained. This money must be added to each controlling
-Senator’s respective Personal Treasury and the pressured Knights are discarded.
+and rolls a die for each to determine the amount of Talents gained. This money is added to the Faction Treasury
+and the pressured Knights are discarded.
 
 ### 1.07.6 SPONSORING GAMES
 Sponsoring Games allows a Senator to increase his Popularity while lowering the Unrest Level of the populace.
-The Senator pays the cost of the games he wishes to Sponsor from his Personal Treasury (see the Games Table).
+The Senator pays the cost of the games he wishes to Sponsor from his Faction Treasury (see the Games Table).
 Adjust his Popularity and reduce the Unrest Level as indicated.
 
 ### 1.07.7 PUTTING ROME IN ORDER
@@ -493,7 +482,7 @@ or abstain.. After that Faction votes or abstains, the Presiding Magistrate sele
 and the process is repeated until all Factions have had an opportunity to vote or abstain.
 
 Each Senator in Rome controls votes equal to his Oratory plus the number of Knights he controls. However, he may
-temporarily increase his votes for any proposal by buying them. For each Talent he pays out of his Personal Treasury
+temporarily increase his votes for any proposal by buying them. For each Talent he pays out of his Faction Treasury
 he receives 1 extra vote for that round of voting. These Talents are paid out when the Senator’s votes are called upon.
 All the Senators in a Faction need not vote alike. Once a Senator declares his vote, he may not change it.
 A simple majority (> 50%) of votes cast is required to pass any measure.
@@ -566,8 +555,8 @@ the Presiding Magistrate.
 The Censor must appoint a consenting ASCIR to be Prosecutor for each Prosecution. The Prosecutor can not be the Censor
 himself or the Accused. If no consenting Prosecutor can be found then there can be no Prosecution.
 
-An ASCIR with a [Corrupt marker](#10613-provincial-spoils), a [Major marker](#1078-putting-rome-in-order), or a
-Concession with a [revealed corrupt bar](#10612-knightsconcessions) is eligible for a Minor Prosecution.
+An ASCIR with a [Corrupt marker](#1061-personal-revenue), a [Major marker](#1078-putting-rome-in-order), or a
+Concession with a [revealed corrupt bar](#1061-personal-revenue) is eligible for a Minor Prosecution.
 
 To be eligible for a Major Prosecution the Accused must hold a [Major marker](#1078-putting-rome-in-order).
 
@@ -957,7 +946,7 @@ Before announcing his decision, a Commander considering Revolt may roll 1d6 for 
 (unless they are Veteran and belong to the Commander) to determine if it will follow him. A result ≥5 is required
 for a Legion to follow the Rebel Senator during the Early Republic. The number is lowered to ≥4 in the Middle Republic,
 and to ≥3 in the Late Republic. Before making the first die roll, he may irrevocably spend money from his
-Personal Treasury (or the Personal Treasury of his Master of Horse with his consent) to buy modifications to those
+Faction Treasury (or the Faction Treasury of his Master of Horse with his consent) to buy modifications to those
 die rolls. For each Talent spent, the Rebel Commander may add 1 to the die roll of one Legion. Only one Talent
 may be spent on each Legion. Veteran Legions owing their allegiance to a Rebel Commander follow their Commander
 automatically. Veteran Legions owing their allegiance to a non-Rebel Senator must still roll a die and do not
@@ -968,27 +957,25 @@ to the Active Forces boxes upon declaration.
 #### 1.11.3.2 SECONDARY REBELS
 When a Senator Revolts, each other Senator in his Faction must immediately declare his loyalty to the State
 or join him in Revolt. Those who remain loyal to the State may continue to function and collect Revenue normally.
-Those who join the Revolt leave Rome and lose all Offices, except Governorships. The Primary Rebel can use any money
-in the Secondary Rebels’ Personal Treasuries as if it were his own. Governors that join the Revolt keep their Provinces,
-but Garrisons of Rebel Governors are not available to (and do not require maintenance from) the Primary Rebel
-or the Senate. Veteran Legions owing allegiance to the Primary Rebel or a Secondary Rebel follow the Primary Rebel
-in Revolt without maintenance and join him upon declaration. Secondary Rebels with independent commands may not
-contribute other Forces to the Rebel at this time and must return their non-Garrison Legions and Fleets
-to Senate control. In the case of the Master of Horse with a Rebel Dictator, the Master of Horse may become
-a Secondary Rebel only if he is in the same Faction as the Dictator.
+Those who join the Revolt leave Rome and lose all Offices, except Governorships. Governors that join the Revolt
+keep their Provinces, but Garrisons of Rebel Governors are not available to (and do not require maintenance from)
+the Primary Rebel or the Senate. Veteran Legions owing allegiance to the Primary Rebel or a Secondary Rebel follow
+the Primary Rebel in Revolt without maintenance and join him upon declaration.
+Secondary Rebels with independent commands may not contribute other Forces to the Rebel at this time and must return
+their non-Garrison Legions and Fleets to Senate control. In the case of the Master of Horse with a Rebel Dictator,
+the Master of Horse may become a Secondary Rebel only if he is in the same Faction as the Dictator.
 
 #### 1.11.3.3 MAINTENANCE
 Rebel Legions & Fleets cost 2 Talents per turn to maintain and must be paid before
-the [Redistribution of wealth](#1063-redistribution) occurs. The Rebel Senator can pay this from his Personal
-or Faction Treasury. Veteran Legions owing allegiance to a Rebel Senator and Garrisons of Rebel Governor require
+the [State Revenues](#1063-state-revenues) occurs. The Rebel Senator can pay this from his Faction Treasury.
+Veteran Legions owing allegiance to a Rebel Senator and Garrisons of Rebel Governor require
 no maintenance, while Veteran Legions owing no allegiance must be maintained normally. If the Rebel cannot pay
 the required maintenance during the Revenue Phase, he must release the Legions and Fleets he cannot afford.
 Any Legions or Fleets that are released in this manner immediately return to the Senate.
 
 #### 1.11.3.4 INCOME
 A Senator in Revolt returns his Concessions to the Forum, loses all of his Knights, and forfeits
-all [Personal Revenue](#1061-personal-revenue). A Senator in Revolt may not receive money directly
-from any Faction Treasury or any loyal Senator’s Personal Treasury.
+all [Personal Revenue](#1061-personal-revenue).
 
 #### 1.11.3.5 COMBAT REQUIREMENT
 During each Combat Phase in which there is a Rebel Marching on Rome, the Primary Rebel must fight the Army deployed
@@ -1042,7 +1029,8 @@ In all cases except number 5, Rome must [survive](#1123-survival) until the end 
 1. A Rebel Senator, while Marching on Rome, wins if the Senate fails to attack his Army in
    a [Combat Phase](#11135-combat-requirement) or if he [defeats the Senate in battle](#111373-senate-defeat)
    without [dying in that battle](#1107-commander-death).
-2. A Rebel Senator wins if the State goes [Bankrupt](#10653-debits) or the [People Revolt](#1082-state-of-the-republic).
+2. A Rebel Senator wins if the State goes [Bankrupt](#1063-state-revenues) or
+   the [People Revolt](#1082-state-of-the-republic).
 3. A Senator wins when he is appointed [Consul for Life](#109822-consul-for-life-appointment).
 4. A Senator wins when he is elected [Consul for Life](#109821-consul-for-life-election).
 5. At the end of the Forum Phase in which the Era Ends card is revealed, the Faction with the most combined Influence
@@ -1056,7 +1044,7 @@ The Game ends in defeat for all players if one of the following conditions occur
    has met one of his [Victory Conditions](#1121-winning).
 2. A result of “People Revolt” is obtained during a [Population Phase](#1082-state-of-the-republic)
    with no Rebel Senator in play.
-3. The State Treasury goes [Bankrupt](#10653-debits) (unable to pay for anything when required)
+3. The State Treasury goes [Bankrupt](#1063-state-revenues) (unable to pay for anything when required)
    with no Rebel Senator in play.
 
 ### 1.12.3 SURVIVAL
@@ -1206,17 +1194,16 @@ the use of a Tribune card. He can veto (but not propose) anything that could nor
 
 ### 2.01.6 COLLECTIONS
 During the Revenue Phase, the Pontifex Maximus receives 1d6 Talents in addition to his normal
-[base income](#10611-base-income).
+[base income](#1061-personal-revenue).
 
 ### 2.01.7 EVIL OMENS
-When the Evil Omens event is drawn, the Pontifex Maximus must pay the 20 Talent cost from his Personal Treasury.
+When the Evil Omens event is drawn, the Pontifex Maximus must pay the 20 Talent cost from his Faction Treasury.
 If he cannot pay the 20 Talents or if a second Evil Omens occurs in the same turn, he is immediately stripped
 of his office, gets a Major marker, and loses 5 Influence (to a minimum of 0). If he is unable to pay the full
-Evil Omens cost, the difference plus a 10 Talent fine is levied on his Faction Treasury (payable to the Bank).
-If the Faction Treasury has insufficient funds, what money there is in that Treasury is lost, and the ancient Pontifex
+Evil Omens cost, what money there is in that Treasury is lost, and the ancient Pontifex
 may also be the subject of a Major Prosecution during the following Senate Phase, in addition to any regular
 Prosecutions the Censor may wish to conduct. The State must pay any shortfall in the Evil Omens cost
-(excluding the Faction fine) not paid by the Pontifex Maximus or his Faction.
+not paid by the Pontifex Maximus or his Faction.
 
 ### 2.01.8 RECALL
 The Pontifex Maximus may be stripped of his office during any Senate Phase by a two-thirds majority of votes cast.
@@ -1231,15 +1218,15 @@ the Province from attacking Wars. This Advanced Rule adds a medium level of comp
 only be used once players have a good understanding of the Basic Rules.
 
 ### 2.02.2 TAXES
-The [Provincial Spoils](#10613-provincial-spoils) and [State Income](#10651-taxes) derived from Provinces remains
+The [Provincial Spoils](#1061-personal-revenue) and [State Income](#1063-state-revenues) derived from Provinces remains
 the same as in the Basic Game. However, an additional Local Tax income is generated immediately after the State pays
-its [debits](#10653-debits) in the Revenue Phase for the purpose of raising Provincial Forces.
+its [debits](#1063-state-revenues) in the Revenue Phase for the purpose of raising Provincial Forces.
 Local Taxes may be supplemented by the Governor, but are never decreased or stolen. Local Taxes must be spent the turn
 they are generated and cannot be saved.
 
 ### 2.02.3 FORCES
 The Province’s Governor spends the Talents raised by Local Taxes immediately after the State pays
-its [debits](#10653-debits) in the Revenue Phase. It costs 10 Talents to build an Army or Fleet.
+its [debits](#1063-state-revenues) in the Revenue Phase. It costs 10 Talents to build an Army or Fleet.
 He must build as many Forces as possible, but may choose the types. An Unaligned Governor will raise Forces
 in equal proportions, with Armies getting preference in the case of an odd number of builds. The maximum number
 of Provincial Forces that each province may raise is defined on the Province card. Note builds by adjusting
@@ -1260,7 +1247,8 @@ from Provincial Armies and is not halved.
 ### 2.02.4 PROVINCIAL WARS
 Whenever an Active War appears that names Provinces under “Defends,” those Provinces are considered under attack
 (if they exist and are loyal to Rome). All of these listed Provinces lose
-all [Provincial Spoils](#10613-provincial-spoils) and all [Taxes](#10651-taxes), including the [Local Tax](#2022-taxes).
+all [Provincial Spoils](#1061-personal-revenue) and all [Taxes](#1063-state-revenues), including
+the [Local Tax](#2022-taxes).
 They may maintain their existing Provincial Forces for free, but may build no new ones. At the end of any Combat Phase,
 but before Unprosecuted Wars are moved to the [Unprosecuted Wars](#1109-unprosecuted-wars) spaces,
 the first Roman-controlled Province for each War must attack that War (unless a Roman Force sent by the Senate this turn
@@ -1370,13 +1358,13 @@ of their Provinces until defeated or killed.
 ### 2.03.5 REBEL GOVERNOR INCOME
 A Governor in Revolt is not subject to recall but loses all Concessions, Knights, and Aligned Senatorial Income.
 He must collect all Provincial Spoils and State and Local Taxes of his Province, which are transferred to his
-Personal Treasury.
+Faction Treasury.
 
 ### 2.03.6 REBEL PROVINCIAL MAINTENANCE
 A Rebel must pay 2 Talents per Provincial Army/Fleet, Legion/Fleet, and for each point of Strength in the Province’s
-printed Base Province Strength for maintenance. He may pay using Talents from his Personal Treasury,
-his Faction Treasury, or the Personal Treasuries of other Rebel Senators. Veteran Legions owing allegiance to
-a Rebel Senator require no maintenance. If, during the Revenue Phase, the Rebel cannot pay the required maintenance
+printed Base Province Strength for maintenance. He may pay using Talents from his Faction Treasury.
+Veteran Legions owing allegiance to a Rebel Senator require no maintenance.
+If, during the Revenue Phase, the Rebel cannot pay the required maintenance
 he must first release non- provincial Legions/Fleets until he can afford to pay the maintenance. Any non-provincial
 Legions/Fleets that are released in this manner may be returned to the State. If the HRAO does not wish the State
 to pay (or the State cannot) the maintenance costs of these Forces, they are immediately eliminated.
@@ -1428,8 +1416,8 @@ either the Primary Rebel’s Forces or the reinforcing Rebel Province (Rebel’s
 If a Primary Rebel Governor remains in his Province, he cannot win due to the failure of the Senate to send an Army
 against him or even for defeating the Army the Senate [sends against him](#20381-attacking-a-rebel-province). He can,
 however, still win if the [People Revolt](#1082-state-of-the-republic) or the State Treasury goes
-[Bankrupt](#10653-debits). His War (in combination with all Secondary Rebels) count as one of the 4 Active Wars needed
-to destroy Rome and costs the State 20 Talents per turn. The Rebel Governor’s Strength is equal to
+[Bankrupt](#1063-state-revenues). His War (in combination with all Secondary Rebels) count as one of the 4 Active Wars
+needed to destroy Rome and costs the State 20 Talents per turn. The Rebel Governor’s Strength is equal to
 the Province’s Base Province Strength plus all Provincial Forces, loyal Veterans and Garrison Legions,
 and Fleets he has. In a future Revolution Phase during [Declaration of Civil War](#1113-declaration-of-civil-war),
 the Primary Rebel can decide to March on Rome. If the Province has a Base Province Naval Strength greater than 0,
@@ -1490,7 +1478,7 @@ If the Rebel Army attacks the Senate in Italy and achieves a “Victory” resul
 now rules Rome and wins the Game, barring [the collapse of the Republic](#1123-survival). If he defeats
 the Senatorial Army attacking him in his Rebel Province, he does not win the Game. For the Primary Rebel to win he must
 successfully attack the Senate in Italy or he may wait in his Province and hope for
-a [“People Revolt”](#1082-state-of-the-republic) result or a [Bankruptcy of the State Treasury](#10653-debits).
+a [“People Revolt”](#1082-state-of-the-republic) result or a [Bankruptcy of the State Treasury](#1063-state-revenues).
 
 ## 2.04 LEGIONARY DISBANDMENT & RECALL
 ### 2.04.1 OVERVIEW
@@ -1509,7 +1497,7 @@ in the available Force Pool and lose their Veteran Status.
 
 ### 2.04.3 RECALL
 A Consul or Dictator may recall his disbanded Veteran Legions from the Bank during
-the [Senate Phase](#10963-recruitment-of-forces) by paying 10 Talents per Legion from his Personal or Faction Treasury
+the [Senate Phase](#10963-recruitment-of-forces) by paying 10 Talents per Legion from his Faction Treasury
 (No Recruitment and Manpower Shortages do not affect the ability or cost to recall Legions). For each Legion he recalls,
 the Senator flips its Allegiance marker on his card and decreases both his Oratory and Influence by 1. Recalled Legions
 retain their Veteran status and must be maintained by the Senate at the normal rate.
