@@ -1454,8 +1454,11 @@ Fleet Support might also be required to fight the Land Battle. The Rebel’s Fle
 
 Base Province Naval Strength
 +1 per Provincial Fleets
-If the Rebel Governor’s Fleet Strength exceeds the Undeveloped Base Province Land Strength of the Province (even if it is Developed), a Naval Battle must be fought first (unless the maximum number of fleets that Province can build is 0).
-The Rebel Governor’s Fleet Strength is equal to the sum of the following:
+
+If the Rebel Governor’s Fleet Strength exceeds the Undeveloped Base Province Land Strength of the Province
+(even if it is Developed), a Naval Battle must be fought first (unless the maximum number of fleets that Province
+can build is 0). The Rebel Governor’s Fleet Strength is equal to the sum of the following:
+
 Base Province Naval Strength
 +1 per Provincial Fleets
 +Military rating of [Rebel Governor](#11011-land-battles)
