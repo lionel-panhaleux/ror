@@ -9,10 +9,7 @@ compete for state offices, military commands, economic concessions and new adher
 become the dominant political force in Rome. However, the Senate must also attend to the affairs of state in a hostile
 world, necessitating a certain amount of cooperation in the prosecution of wars and the maintenance of public
 contentment. Failure to do so, especially at the outset when Rome is most vulnerable, may result in the collapse of the
-Republic. Therefore, the players must not only out maneuver one another, but also defeat the game itself,
-which constitutes an ever-present opponent scheming to divide and defeat them all. Players are advised to keep
-the threat of the downfall of the Republic foremost in mind and stand ready to cooperate for the good of the state.
-Otherwise, the most likely winner will be the game, and all players will be put to the sword!
+Republic. Therefore, the players must not only out maneuver one another, but also defeat the game itself.
 
 **WINNING:** There are multiple ways to win REPUBLIC OF ROME. One common way is for the Senators in your Faction
 to accumulate the most combined Influence by the end of the game. However, if a single Senator can accumulate enough
